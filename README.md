@@ -1,5 +1,4 @@
 # CCC101
-
 Name: Aira Faith T. Atis
 Section: B182
 Course: CCC101
